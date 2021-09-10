@@ -13,6 +13,7 @@ The ETES will have competitions on Saturday and Sunday:
 
 # Classes
 Refer to the following table to determine which class to dance in
+
 |                                          | Beginners                                                                                         | Breitensport                                                                                 | Open                                                                                                                          |
 | :--------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | **No experience<br>in regular competitions** | \- Less than 1.5 year of dancing experience<br>\- No formal competitions<br>\- No private lessons | Not allowed in beginners<br>Check with TC                                                    | Several years of frequent private lessons<br>Not allowed in beginners<br>Check with TC                                        |
