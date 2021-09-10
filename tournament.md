@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
+title: Tournament
 permalink: /tournament/
+ref: tournament
+order: 2
 ---
 
 # Tournament info
