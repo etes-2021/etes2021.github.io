@@ -1,5 +1,8 @@
 title: ETES - European Tournament for ETDS Superfans
 description: Information about the ETES 2021 in Amsterdam
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: lorepirri/cayman-blog
 google_analytics: G-5WL1J60HTS
+
+header_page_refs: ['tournament']
