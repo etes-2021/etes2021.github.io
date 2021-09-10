@@ -5,4 +5,4 @@ markdown: kramdown
 remote_theme: lorepirri/cayman-blog
 google_analytics: G-5WL1J60HTS
 
-header_page_refs: ['tournament']
+header_page_refs: ['home', 'tournament']
