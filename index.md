@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: home
 permalink: /
+title: Home
+ref: home
 ---
 Dear dancing family,
 
