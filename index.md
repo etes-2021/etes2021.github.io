@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "ETES Home"
 permalink: /
 ---
 Dear dancing family,
