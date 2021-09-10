@@ -1,7 +1,3 @@
-layout: page
-title: "ETES 2021 Home"
-permalink: /
-
 Dear dancing family,
 
 The marvels of '3030' seem to be even further away than we imagined. But, do not despair: we have found an oasis. A place where the bravest explorers of the time/space continuüm can settle down for a weekend, regroup with fellow travelers and stretch their legs.
