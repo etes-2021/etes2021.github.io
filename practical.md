@@ -25,3 +25,5 @@ In practice this means that
 - Everyone will need to get an official test at most 24 hours before you enter the event
 - If you are not 'immunized' (either fully vaccinated or recoverd less than 180 days ago) you can probably plan it so that you can enter both Friday and Saturday with the same test, but you will need to get a new test to enter on Sunday.
 Rapid tests can be booked for free through this website: <https://www.testenvoortoegang.org/>
+
+We want you to be safe and also to feel safe. For the event, we are hoping for an atmosphere where no one will feel weird if they choose to wear a mask even on the dancefloor, even though this is nothing that we would ask you to do.
