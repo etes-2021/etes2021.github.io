@@ -19,6 +19,8 @@ If you come by plain to Schiphol Airport the easiest way is to take a train from
 The aim of our Corona protocol is that during the event we can all behave as freely as possible while providing a safe environment for everyone. To make that possible we will strictly apply the following regulations at the entrance:
 - Every participant will be required to show proof of vaccination, recovery or a recent negative test for Covid-19, in accordance with local government regulations, at the registration desk.
 - On top of that, proof of a recent negative official Covid-19 test will be required from every participant. This can not be a self-test and this requirement also applies to those fully vaccinated or recovered.
+
+
 In practice this means that
 - Everyone will need to get an official test at most 24 hours before you enter the event
 - If you are not 'immunized' (either fully vaccinated or recoverd less than 180 days ago) you can probably plan it so that you can enter both Friday and Saturday with the same test, but you will need to get a new test to enter on Sunday.
