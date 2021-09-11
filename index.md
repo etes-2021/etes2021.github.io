@@ -23,15 +23,6 @@ As we are organizing this in the last minute not all the details are completely 
 - There will be no sleeping halls. We are looking for alternative solutions, for which there would be a separate fee, but be prepared to arrange your own place to sleep.
 - Every participant will be expected to take on 4 hours of helping shifts.
 
-Of course we will also take our responsibility with regards to Covid. Our aim is that during the event we can all behave as freely as possible while providing a safe environment for everyone. To make that possible we will strictly apply the following regulations at the entrance:
-- Every participant will be required to show proof of vaccination, recovery or a recent negative test for Covid-19, in accordance with local government regulations, at the registration desk. For those not vaccinated or recovered this may require several tests for several days!
-- On top of that, proof of a recent negative official Covid-19 test will be required from every participant. This can not be a self-test and this requirement also applies to those fully vaccinated or recovered.
-
-A more detailed explanation of these regulations will be made available later. We will update these regulations if the situation requires us to do so.
-
-We want you to be safe and also to feel safe. For the event, we are hoping for an atmosphere where no one will feel weird if they choose to wear a mask even on the dancefloor, even though this is nothing that we would ask you to do.
-
-
 You can register by filling in the form here: <http://signup.etes2021.eu>
 
 If more people sign up than we can host then there will be a randomized lottery. Those registrations selected by the lottery will be offered a spot in the event. The first draw of the lottery will be on September 13th, so make sure to register before that date! You as well as your team captain will be informed of the result of the lottery.
