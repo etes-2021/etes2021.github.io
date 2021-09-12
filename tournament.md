@@ -53,4 +53,4 @@ Wether or not you are allowed to dance with your regular dancing partner is deci
 | England | Intermediate |
 
 # Qualification rounds
-Any class that has more than 20 couples will be divided into sub-classes by means of a qualification round. The number of subclasses will depend on the number of couples in the class.
+Any class that has more than 24 couples will be divided into sub-classes by means of a qualification round. The number of subclasses will depend on the number of couples in the class.
