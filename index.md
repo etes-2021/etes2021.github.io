@@ -18,11 +18,11 @@ As we are organizing this in the last minute not all the details are completely 
 - Location: Candance Studios in Amsterdam (Isolatorweg 28, 1014 AS Amsterdam)
 - Tournaments for Beginners, Breitensport and Open class on Saturday and Sunday
 - Dancing parties on Friday-, Saturday- and Sunday evenings
-- Space for approximately 200 participants
+- Space for approximately 300 participants
 - Participation fee: 70 euros. This will include most meals.
 - There will be no sleeping halls. We are looking for alternative solutions, for which there would be a separate fee, but be prepared to arrange your own place to sleep.
 - Every participant will be expected to take on 4 hours of helping shifts.
 
 You can register by filling in the form here: <http://signup.etes2021.eu>
 
-If more people sign up than we can host then there will be a randomized lottery. Those registrations selected by the lottery will be offered a spot in the event. The first draw of the lottery will be on September 13th, so make sure to register before that date! You as well as your team captain will be informed of the result of the lottery.
+If more people sign up than we can host then there will be a randomized lottery. Those registrations selected by the lottery will be offered a spot in the event. The next draw of the lottery will be on September 20th, so make sure to register before that date! You as well as your team captain will be informed of the result of the lottery.
