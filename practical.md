@@ -30,8 +30,10 @@ In practice this means that
 - The QR code can be on paper or in one of the official apps (CoronaCheck for the Netherlands, CovPass-App for Germany)
 - If you are using the app, make sure that you have everything set up before you come to the venue. It takes some steps to set up, and if you still have to do it when you appear at the welcome desk it will cause major delays for everyone
 - On the first day you enter the venue you will also have to show us proof of your recent negative test.
-- After these checks are done we will give you a wristband so that we won't have to repeat the tests for the rest of the day. Please keep your wristband on your arm until you get the new wristband when you enter the next day; that way we wont have to check the test report again and entering will be more smooth for everyone.
-- Obviously, don't take of your wristband during the day. If re-appear the venue without a wristband, we'll have to repeat the checkin procedure.
+- After these checks are done we will give you a wristband so that we won't have to repeat these checks for the rest of the day. Please keep your wristband on your arm until you get the new wristband when you enter the next day; that way we wont have to check the test report again and entering will be more smooth for everyone.
+- Obviously, don't take of your wristband during the day. If you want to re-enter the venue without a wristband, we'll have to repeat the checkin procedure.
+
+
 Rapid tests can be booked for free through this website: <https://www.testenvoortoegang.org/>. If you are curious, you can download the CoronaCheck scanner app yourself and see what it does.
 
 We want you to be safe and also to feel safe. For the event, we are hoping for an atmosphere where no one will feel weird if they choose to wear a mask even on the dancefloor, even though this is nothing that we would ask you to do.
