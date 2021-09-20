@@ -22,3 +22,12 @@ As you will see, the shifts are color-coded. The color indicates how important i
 - Yellow shifts are important; without them there may be severe delays or other disturbances
 - Green shifts are nice-to-have; without them there may be small delays, longer queues or someone will be doing a shift by themselves that is just nicer to share with a buddy.
 Please keep these priorities in mind when choosing shifts. If we end up with high-priority shifts staying open while many low-priority shifts are getting taken we will have to re-assigning some shifts, starting with those participants that have the fewest high-priority shifts. 
+
+# Shift details
+## Setup / removal
+In these shifts we will convert the venue into our own place for the weekend, and make it look like nothing ever happened afterwards. The venue is a dancing studio so we won't have to install a dancing floor but there will be lots of chairs, tables, benches and other things to put into place.
+
+## Reception / welcome desk
+Welcome the other participants, give them their badges and give them some initial information if needed. But, before any of that: check that they satisfy the covid criteria. For this you will need to have the 'Scanner for CoronaCheck' app installed on your phone ([Android](https://play.google.com/store/apps/details?id=nl.rijksoverheid.ctr.verifier&hl=en&gl=US), [iOS](https://apps.apple.com/nl/app/scanner-voor-coronacheck/id1549842661)). We will provide more detailed instructions later.
+Since this will cause quite some extra work, we have added extra shifts during the peak-hours and the tournament hall guards can hopefully also help.
+
