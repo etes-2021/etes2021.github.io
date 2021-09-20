@@ -59,7 +59,7 @@ Ah, and while you are there anyway, make sure their numbers are upside-up and pr
 Maintain the food distribution system. Keep things tidy, make sure the right amounts of the right things are available at the right times. Make sure no monkeys run off with all the bananas.
 
 ## Bar service
-You will be everyones friend. But you will also take their money. And make sure there are plenty of cold drinks in the fridges.
+You will be everyones friend. But you will also take their money. And make sure that there are plenty of cold drinks in the right fridges.
 
 ## Guard tournament hall
 It will be your responsibility to make sure that only people enter the venue who are supposed to enter the venue. Given the corona-situation this task carries some extra responsibility; everyone inside is counting on being in a safe environment and the guard shifts are crucual for providing that safe environment.
