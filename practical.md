@@ -17,6 +17,56 @@ You can also park at the nearby 'P+R Sloterdijk' parking lot for a special tarif
 The venue is also very easy to reach by public transportation; from the Central Station you can take bus 22 towards Sloterdijk Station and get off at Kabelweg (in front of the Ibis hotel), or take metro line 51 to Isolatorweg (last stop); both stop at a few minutes walking from the venue. The bus will be faster and cheaper.
 If you come by plane to Schiphol Airport the easiest way is to take a train from the airport to Amsterdam Sloterdijk station and take metro line 51 to Isolatorweg for 1 stop (which is the final stop).
 
+# Schedule
+This is a preliminary schedule for the ETES in Amsterdam. Things may still slightly change, so be sure to check back shortly before the event.
+
+### Friday
+The venue consists of three ballrooms: The Grand Ballroom and two separate studios. Most of our dancing will happen in the Grand Ballroom, but we will start our social dancing and blind dating program on Friday evening in the two studios. We will open the Grand Ballroom around 23:00.
+
+Before that time former world champion Julie Fryer will be leading a performance bootcamp in the Grand Ballroom, where will prepare top couples for the WDSF international open competition one week later in Rotterdam. You are invited to enjoy this spectacle as an audience, or participate yourself (participation with separate registration and fee, [see here for more info](https://www.facebook.com/events/1665601713649936/). If you are considering to join this session, be aware that it is really focussed on performance; you should be comortable with dancing several 5-dance finals without stopping during dances).
+
+|   |   |
+|---|---|
+| 20:30 | Doors open |
+| 20:30 - 23:00 | Dancing in Studio A and Studio B |
+| 21:00 - 00:00 | Blind dating program |
+| 21:00 - 22:30 | Possibility to spectate or participate in Julie Fryers performance bootcamp in the Grand Ballroom |
+| 23:00 - 04:00 | Dancing continues in Grand Ballroom |
+| 23:30 | Official welcome |
+| 00:00 | Deadline for couple registrations for Saturday |
+| 04:00 | Venue closes |
+
+
+### Saturday
+|   |   |
+|---|---|
+| 08:30 | Doors open |
+| 08:30 - 09:30 | Warm-up |
+| 08:30 - 11:00 | Breakfast |
+| 09:30 - 18:00 | Tournaments and award ceremony |
+| 10:30 | Team presentation |
+| 12:30 - 14:00 | Lunch |
+| 19:00 - 21:00 | Diner |
+| 20:00 - 04:00 | Evening program (Dancing!) |
+| 20:00 - 21:30 | Blind dating program |
+| 22:00 - 22:15 | Surprise |
+| 00:00 | Deadline for couple registrations for Sunday |
+| 04:00 | Venue closes |
+
+
+### Sunday
+|   |   |
+|---|---|
+| 08:30 | Doors open |
+| 08:30 - 09:30 | Warm-up |
+| 08:30 - 11:00 | Breakfast |
+| 09:30 - 18:00 | Tournaments and award ceremony |
+| 12:30 - 14:00 | Lunch |
+| 19:00 - 21:00 | Diner |
+| 20:00 - 04:00 | Evening program (Dancing!) |
+| 04:00 | Venue closes |
+
+
 # Hotel / Hostel information
 Unfortunately sleeping halls will not be available for this ETES. To help you a bit in finding a good spot, here is a list with some hotels and hostels in the area around the dancing venue (Amsterdam Sloterdijk). Prices mentioned in this list are per person per night, based on a stay from friday till monday and are the online prices on september 19th with mentioned discounts applied.  
 
