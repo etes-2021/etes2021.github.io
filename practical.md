@@ -64,6 +64,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 | 12:30 - 14:00 | Lunch |
 | 19:00 - 21:00 | Diner |
 | 20:00 - 04:00 | Evening program (Dancing!) |
+| 22:00 | Closing words |
 | 04:00 | Venue closes |
 
 
