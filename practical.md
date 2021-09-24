@@ -23,7 +23,7 @@ This is a preliminary schedule for the ETES in Amsterdam. Things may still sligh
 ### Friday
 The venue consists of three ballrooms: The Grand Ballroom and two separate studios. Most of our dancing will happen in the Grand Ballroom, but we will start our social dancing and blind dating program on Friday evening in the two studios. We will open the Grand Ballroom around 23:00.
 
-Before that time former world champion Julie Fryer will be leading a performance bootcamp in the Grand Ballroom, where will prepare top couples for the WDSF international open competition one week later in Rotterdam. You are invited to enjoy this spectacle as an audience, or participate yourself (participation with separate registration and fee, [see here for more info](https://www.facebook.com/events/1665601713649936/). If you are considering to join this session, be aware that it is really focussed on performance; you should be comortable with dancing several 5-dance finals without stopping during dances).
+Before that time former world champion Julie Fryer will be leading a performance bootcamp in the Grand Ballroom, where she will prepare top couples for the WDSF international open competition one week later in Rotterdam. You are invited to enjoy this spectacle as an audience, or participate yourself (participation with separate registration and fee, [see here for more info](https://www.facebook.com/events/1665601713649936/). If you are considering to join this session, be aware that it is really focussed on performance; you should be comortable with dancing several 5-dance finals without stopping during dances).
 
 |   |   |
 |---|---|
