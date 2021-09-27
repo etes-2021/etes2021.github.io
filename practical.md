@@ -31,7 +31,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 | 20:30 - 23:00 | Dancing in Studio A and Studio B |
 | 21:00 - 00:00 | Blind dating program |
 | 21:00 - 22:30 | Possibility to spectate or participate in Julie Fryers performance bootcamp in the Grand Ballroom |
-| 23:00 - 04:00 | Dancing continues in Grand Ballroom |
+| 23:00 - late | Dancing continues in Grand Ballroom |
 | 23:30 | Official welcome |
 | 00:00 | Deadline for couple registrations for Saturday |
 | 04:00 | Venue closes |
@@ -47,7 +47,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 | 10:30 | Team presentation |
 | 12:30 - 14:00 | Lunch |
 | 19:00 - 21:00 | Diner |
-| 20:00 - 04:00 | Evening program (Dancing!) |
+| 20:00 - late | Evening program (Dancing!) |
 | 20:00 - 21:30 | Blind dating program |
 | 22:00 - 22:15 | Surprise |
 | 00:00 | Deadline for couple registrations for Sunday |
@@ -63,7 +63,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 | 09:30 - 18:00 | Tournaments and award ceremony |
 | 12:30 - 14:00 | Lunch |
 | 19:00 - 21:00 | Diner |
-| 20:00 - 04:00 | Evening program (Dancing!) |
+| 20:00 - late | Evening program (Dancing!) |
 | 22:00 | Closing words |
 | 04:00 | Venue closes |
 
