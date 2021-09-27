@@ -27,6 +27,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 
 
 ### Saturday
+
 |   |   |
 |---|---|
 | 08:30 | Doors open |
@@ -44,6 +45,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 
 
 ### Sunday
+
 |   |   |
 |---|---|
 | 08:30 | Doors open |
