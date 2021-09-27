@@ -48,7 +48,7 @@ Answer any question people might have: About dancing, about the competition sche
 During the dating-hours you will also be in charge of registering couples for the tournament on the next day and during competition times we will ask you to keep track of which shifts might need help because they also have to be dancing.
 
 ## List runner
-The list runner supports the people running the rournament desk. Primarily by running around with lists (and taping them to walls (you can decide what 'them' means)), but also with anything else that helps the tournament desk persons staying focussed on their task: doing neck massages, getting coffee and tea, going to the toilet. Everything so that the tournament can run as smoothly as possible. 
+The list runner supports the people running the rournament desk. Primarily by running around with lists (and taping them to walls you can decide what 'them' means), but also with anything else that helps the tournament desk persons staying focussed on their task: doing neck massages, getting coffee and tea, going to the toilet. Everything so that the tournament can run as smoothly as possible. 
 
 ## Floor manager
 As a floor manager you are responsible for making sure that the right dancers enter the dancefloor on the right time, with the right partner. It's super easy until they decide not to show up, keep moving around each other, get confused about their heats or their partners or their shoes, and so forth. And they do all of that all the time. Good luck 😁
