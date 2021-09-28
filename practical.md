@@ -86,8 +86,8 @@ The aim of our Corona protocol is that during the event we can all behave as fre
 
 In practice this means that
 - Everyone will need to get an official test at most 24 hours before you enter the event
-- If you are not 'immunized' (either fully vaccinated or recovered less than 180 days ago) you can probably plan it so that you can enter both Friday and Saturday with the same test, but you will need to get a new test to enter on Sunday.
 - Every day when entering the venue for the first time you will need to show us a QR code that we can scan with the offical CoronaCheck scanner app, as well as a personal identification document. The scanner app needs to scan 'green' with your QR code, and the personal identification details shown in the scanner app need to match those in your official ID document.
+- If you are not 'immunized' (either fully vaccinated or recovered less than 180 days ago) you need an official test of at most 24 hours old every day when you enter the event to get a 'green' QR code. You can probably plan it so that you can enter both Friday and Saturday with the same test, but you will need to get a new test to enter on Sunday.
 - The QR code can be on paper or in one of the official apps (CoronaCheck for the Netherlands, CovPass-App for Germany)
 - If you are using the app, make sure that you have everything set up before you come to the venue. It takes some steps to set up, and if you still have to do it when you appear at the welcome desk it will cause major delays for everyone
 - On the first day you enter the venue you will also have to show us proof of your recent negative test.
