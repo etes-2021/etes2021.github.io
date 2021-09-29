@@ -19,7 +19,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 | 20:30 | Doors open |
 | 20:30 - 23:00 | Dancing in Studio A and Studio B |
 | 21:00 - 00:00 | Blind dating program |
-| 21:00 - 22:30 | Possibility to spectate or participate in Julie Fryers performance bootcamp |
+| 21:00 - 22:30 | Possibility to participate (for a fee) or spectate in Julie Fryers performance bootcamp |
 | 23:00 - late | Dancing continues in Grand Ballroom |
 | 23:30 | Official welcome |
 | 00:00 | Deadline for couple registrations for Saturday |
