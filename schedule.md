@@ -34,7 +34,7 @@ Before that time former world champion Julie Fryer will be leading a performance
 | 08:30 - 09:30 | Warm-up |
 | 08:30 - 11:00 | Breakfast |
 | 10:00 - 18:00 | Tournaments and award ceremony |
-| 10:30 | Team presentation |
+| 12:15 | Team presentation |
 | 12:30 - 14:00 | Lunch |
 | 19:00 - 21:00 | Diner |
 | 20:00 - late | Evening program (Dancing!) |
