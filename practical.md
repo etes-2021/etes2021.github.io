@@ -95,6 +95,7 @@ In practice this means that
 - Obviously, don't take off your wristband during the day. If you want to re-enter the venue without a wristband, we'll have to repeat the checkin procedure.
 
 
-Rapid tests can be booked for free through this website: <https://www.testenvoortoegang.org/>. If you are curious, you can download the CoronaCheck scanner app yourself and see what it does.
+Rapid tests can be booked for free through this website: <https://www.testenvoortoegang.org/>, but tests from any institution are fine, as long there is some formal proof.  
+If you are curious about the QR codes, you can download the CoronaCheck scanner app yourself and see what it does.
 
 We want you to be safe and also to feel safe. For the event, we are hoping for an atmosphere where no one will feel weird if they choose to wear a mask even on the dancefloor, even though this is nothing that we would ask you to do.
