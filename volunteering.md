@@ -68,7 +68,7 @@ You will be everyones friend. But you will also take their money. And make sure 
 ## Guard tournament hall
 It will be your responsibility to make sure that only people enter the venue who are supposed to enter the venue. Given the corona-situation this task carries some extra responsibility; everyone inside is counting on being in a safe environment and the guard shifts are crucual for providing that safe environment.  
   
-For this ETES we will be working with wristbands in different colors for each day, so most of the time you will just have to make sure that everyone entering is wearing the right wristband, for which unlike the usual beloved badges, they can not claim it was eaten by their ~~dog~~ partner. However since there won't be a reception desk most of the time, and people do have to change wrist-bands every day, and some peope do arrive late (yay open dancers), being a guard at the ETES also means being a receptionist.
+For this ETES we will be working with wristbands in different colors for each day, so most of the time you will just have to make sure that everyone entering is wearing the right wristband, for which unlike the usual beloved badges, they can not claim it was eaten by their ~~dog~~ partner. However since there won't be a reception desk most of the time, and people do have to change wrist-bands every day, and some peope do arrive late (yay open dancers), being a guard at the ETES also means being a receptionist.  
 Function description [here](https://docs.google.com/document/d/1C0LXvKahHtkkP0Zo8yql5au47Jbvj6r4urSjrPm4TfU/edit?usp=sharing)  
 
 ## Medical assistance
