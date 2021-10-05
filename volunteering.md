@@ -35,18 +35,20 @@ If there is still a time when you need to leave your post and no buddy is availa
   
 # Shift details
 ## Setup / removal
-In these shifts we will convert the venue into our own place for the weekend, and make it look like nothing ever happened afterwards. The venue is a dancing studio so we won't have to install a dancing floor but there will be lots of chairs, tables, benches and other things to put into place.
-
+In these shifts we will convert the venue into our own place for the weekend, and make it look like nothing ever happened afterwards. The venue is a dancing studio so we won't have to install a dancing floor but there will be lots of chairs, tables, benches and other things to put into place.  
+Shift manual [here](https://docs.google.com/document/d/1swBmZ7aiuF3RHpnvjsIzOvEdXLKNZsun7-3UUgGuogg)
+  
 ## Reception / welcome desk
 Welcome the other participants, give them their badges and give them some initial information if needed. But, before any of that: check that they satisfy the covid criteria. For this you will need to have the 'Scanner for CoronaCheck' app installed on your phone ([Android](https://play.google.com/store/apps/details?id=nl.rijksoverheid.ctr.verifier&hl=en&gl=US), [iOS](https://apps.apple.com/nl/app/scanner-voor-coronacheck/id1549842661)). We will provide more detailed instructions later.
 
-Since this will cause quite some extra work, we have added extra shifts during the peak-hours and the tournament hall guards can hopefully also help.
+Since this will cause quite some extra work, we have added extra shifts during the peak-hours and the tournament hall guards can hopefully also help.  
+Shift manual [here](https://docs.google.com/document/d/1Y2-UzabMdiaLZ4Wbn0VZ8gOmJrj6UYZVxtkIGuBc34I/)  
 
 ## Info desk
 Answer any question people might have: About dancing, about the competition schedule, who that pretty girl or cool dude with the fancy moves is. If you know all about how these events usually happen, the info desk shifts might be for you :) And don't worry: We will give you a walkie-talkie so you can call upon someone from the orga team whenever needed :)
 
 During the dating-hours you will also be in charge of registering couples for the tournament on the next day and during competition times we will ask you to keep track of which shifts might need help because they also have to be dancing.  
-Function description [here](https://docs.google.com/document/d/1GugUigwzyGeBdUO_LxSCqnUxMHifOXMnRWxUGTQCnVY/)  
+Shift manual [here](https://docs.google.com/document/d/1GugUigwzyGeBdUO_LxSCqnUxMHifOXMnRWxUGTQCnVY/)  
 The FAQ can be found here: <http://faq.etes2021.eu>  
 
 ## List runner
@@ -56,20 +58,21 @@ The list runner supports the people running the rournament desk. Primarily by ru
 As a floor manager you are responsible for making sure that the right dancers enter the dancefloor on the right time, with the right partner. It's super easy until they decide not to show up, keep moving around each other, get confused about their heats or their partners or their shoes, and so forth. And they do all of that all the time. Good luck 😁
 
 Ah, and while you are there anyway, make sure their numbers are upside-up and properly attached.  
-Function description [here](https://docs.google.com/document/d/1FIC9eG2cZuCaY91yDeDWrLp8IJuQoUsX1uet8z_bPQc/)
+Shift manual [here](https://docs.google.com/document/d/1FIC9eG2cZuCaY91yDeDWrLp8IJuQoUsX1uet8z_bPQc/)
 
 ## Food delivery
 Maintain the food distribution system. Keep things tidy, make sure the right amounts of the right things are available at the right times. Make sure no monkeys run off with all the bananas.  
-Function description [here](https://docs.google.com/document/d/1DFcdp5U64etTG8Dr51gpAgyCu7uV6Yl1)
+Shift manual [here](https://docs.google.com/document/d/1DFcdp5U64etTG8Dr51gpAgyCu7uV6Yl1)
 
 ## Bar service
-You will be everyones friend. But you will also take their money. And make sure that there are plenty of cold drinks in the right fridges.
+You will be everyones friend. But you will also take their money. And make sure that there are plenty of cold drinks in the right fridges.  
+Shift manual will follow.
 
 ## Guard tournament hall
 It will be your responsibility to make sure that only people enter the venue who are supposed to enter the venue. Given the corona-situation this task carries some extra responsibility; everyone inside is counting on being in a safe environment and the guard shifts are crucual for providing that safe environment.  
   
 For this ETES we will be working with wristbands in different colors for each day, so most of the time you will just have to make sure that everyone entering is wearing the right wristband, for which unlike the usual beloved badges, they can not claim it was eaten by their ~~dog~~ partner. However since there won't be a reception desk most of the time, and people do have to change wrist-bands every day, and some peope do arrive late (yay open dancers), being a guard at the ETES also means being a receptionist.  
-Function description [here](https://docs.google.com/document/d/1C0LXvKahHtkkP0Zo8yql5au47Jbvj6r4urSjrPm4TfU/edit?usp=sharing)  
+Shift manual [here](https://docs.google.com/document/d/1C0LXvKahHtkkP0Zo8yql5au47Jbvj6r4urSjrPm4TfU/edit?usp=sharing)  
 
 ## Medical assistance
 In case anyone injures themselves, you will be there to repair them. This shift requires you to be a medical doctor with an active license to perform first aid.
