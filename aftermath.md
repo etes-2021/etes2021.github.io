@@ -7,7 +7,7 @@ order: 6
 ---
 
 # Results
-Check the results [here](/results.html)
+The results are temporarily available [here](https://adj.etes2021.eu/results/)
 
 # Playlists
 -- Will follow --
