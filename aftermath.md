@@ -22,6 +22,7 @@ The results are temporarily available [here](https://adj.etes2021.eu/results/)
 If you have a collection of photo's and videos of the ETES you would like to share, be it on your own website, a Facebook album, a Dropbox or Google Drive or whatever else, please e-mail us the link (etes.\<name of the city>@gmail.com) and we will list it here.
 
 - [Group pictures by Michelle](https://drive.google.com/drive/folders/18tnanhCf3mRCAdihJMB_TCjVKNVmaqnj?usp=sharing)
+- [Pictures by @photography.phd.dance](https://www.facebook.com/media/set/?set=a.1079880032830870)
 - [Open class paso doble final by Til](https://www.facebook.com/100004297631589/videos/588003265774347/)
 
 # Lost and found
