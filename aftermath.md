@@ -10,13 +10,14 @@ order: 6
 The results are temporarily available [here](https://adj.etes2021.eu/results/)
 
 # Playlists
-[Beginners Ballroom](/playlists/2021-ETES-Saturday ETES-Beginners-Ballroom.html)  
-[Amateurs Ballroom](/playlists/2021-ETES-Saturday-ETES-Amateurs-Ballroom.html)  
-[Masters Ballroom](/playlists/2021-ETES-Saturday-ETES-Masters-Ballroom.html)  
-[Equality Ballroom](/playlists/2021-ETES-Saturday-ETES-Equality-Ballroom.html)  
-[Open Latin](/playlists/2021-ETES-Saturday-ETES-Open-Latin.html)  
-[Evening Saturday](/playlists/2021-ETES-ETES-Saturday.html)  
-[Evening Sunday](/playlists/2021-ETES-ETES-Sunday.html)  
+
+- [Beginners Ballroom](/playlists/2021-ETES-Saturday ETES-Beginners-Ballroom.html)
+- [Amateurs Ballroom](/playlists/2021-ETES-Saturday-ETES-Amateurs-Ballroom.html)  
+- [Masters Ballroom](/playlists/2021-ETES-Saturday-ETES-Masters-Ballroom.html)  
+- [Equality Ballroom](/playlists/2021-ETES-Saturday-ETES-Equality-Ballroom.html)  
+- [Open Latin](/playlists/2021-ETES-Saturday-ETES-Open-Latin.html)  
+- [Evening Saturday](/playlists/2021-ETES-ETES-Saturday.html)  
+- [Evening Sunday](/playlists/2021-ETES-ETES-Sunday.html)  
 
 # Photos and videos
 If you have a collection of photo's and videos of the ETES you would like to share, be it on your own website, a Facebook album, a Dropbox or Google Drive or whatever else, please e-mail us the link (etes.\<name of the city>@gmail.com) and we will list it here.
