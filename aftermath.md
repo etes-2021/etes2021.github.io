@@ -29,7 +29,7 @@ If you have a collection of photo's and videos of the ETES you would like to sha
 
 # Lost and found
 Lost something? Well, we found it!  
-Need your stuff back? Let us know: etes.\<name of the city>@gmail.com  
+Need your stuff back? Let us know: etes.\<name of the city>@gmail.com (indeed, replace \<name of the city> with amsterdam).  
 Also if something is yours but you don't need it back, please let us know so that we can find another destination for it.
 
 ![Lost and found 1](/laf/laf1.jpg "Lost and found 1")
