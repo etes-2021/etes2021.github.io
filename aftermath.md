@@ -22,10 +22,13 @@ The results are temporarily available [here](https://adj.etes2021.eu/results/)
 # Photos and videos
 If you have a collection of photo's and videos of the ETES you would like to share, be it on your own website, a Facebook album, a Dropbox or Google Drive or whatever else, please e-mail us the link (etes.\<name of the city>@gmail.com) and we will list it here.
 
-- [Group pictures by Michelle](https://drive.google.com/drive/folders/18tnanhCf3mRCAdihJMB_TCjVKNVmaqnj?usp=sharing)
-- [Pictures by @photography.phd.dance](https://www.facebook.com/media/set/?set=a.1079880032830870)
+- [Group pictures by Michelle](https://drive.google.com/drive/folders/18tnanhCf3mRCAdihJMB_TCjVKNVmaqnj)
+- [Album by @photography.phd.dance, on Facebook](https://www.facebook.com/media/set/?set=a.1079880032830870)
+- [Album by @photography.phd.dance, on Website](https://photography.viguier.nl/gallery#16363219065108)
+- [Album by Andrej](https://www.dropbox.com/sh/mzde0u8t4rg0r24/AAAg6NF0m0utOa713wC-95-la)
+- [Album by Rüdiger](https://www.dropbox.com/sh/h35wvwqkttfybc6/AAC8-vOwqP8btceS1pcr-tVja/rendered)
+- [Album by Kira](https://www.dropbox.com/sh/6mm7pe86i1ivt2h/AACGkTaqhZuZIwobmlpsp3lpa)
 - [Open class paso doble final by Til](https://www.facebook.com/100004297631589/videos/588003265774347/)
-- [Collection by Andrej](https://www.dropbox.com/sh/mzde0u8t4rg0r24/AAAg6NF0m0utOa713wC-95-la)
 
 # Lost and found
 Lost something? Well, we found it!  
